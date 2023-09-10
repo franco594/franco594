@@ -27,3 +27,5 @@ Javascript, Python, Java, Git...
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franco594&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://wakatime.com/share/@franco594/2df67197-c9da-4c80-9516-31d5cdb08bb3.svg"/> 
