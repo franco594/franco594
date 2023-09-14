@@ -17,7 +17,7 @@
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://franco594.github.io/Tubosur/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franco594/)
 [![instagram](https://img.shields.io/badge/instagram-c1558b?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fran.pieroni/)
-[![gmail](https://img.shields.io/badge/gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white)](https://cloudhq.net/s/19ecd87b3fa44c)
+[![gmail](https://img.shields.io/badge/gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francopiero594@gmail.com)
 
 ## 🛠 Skills
 Javascript, Python, Java, Git, C...
