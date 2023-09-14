@@ -20,7 +20,7 @@
 [![gmail](https://img.shields.io/badge/gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white)](francopiero594@gmail.com)
 
 ## 🛠 Skills
-Javascript, Python, Java, Git...
+Javascript, Python, Java, Git, C...
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franco594&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
