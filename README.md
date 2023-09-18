@@ -10,7 +10,7 @@
 
 🎸 Amo la música y  tocar la guitarra 
 
-💬 Preguntame sobre música, recitales y lenguaje C
+💬 Preguntame sobre música y recitales
 
 
 ## 🔗 Links
