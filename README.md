@@ -4,9 +4,7 @@
 
 💻 Soy estudiante de la Tecnicatura en Programación de la UTN San Rafael
 
-🌱 Actualmente aprendiendo Java, Python, JavaScript y Git
-
-😵 Estoy buscando ayuda con la estadística descriptiva
+🌱 Actualmente aprendiendo Java Springboot, Python, JavaScript y Node.js
 
 🎸 Amo la música y  tocar la guitarra 
 
@@ -20,10 +18,12 @@
 [![gmail](https://img.shields.io/badge/gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francopiero594@gmail.com)
 
 ## 🛠 Skills
-Javascript, Python, Java, Git...
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,django)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb)](https://skillicons.dev)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franco594&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://wakatime.com/share/@franco594/2df67197-c9da-4c80-9516-31d5cdb08bb3.svg"/> 
 
